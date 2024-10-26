@@ -43,3 +43,11 @@
  GET / 200 in 293ms
  GET /favicon.ico?favicon.45db1c09.ico 200 in 248ms
  GET /favicon.ico?favicon.45db1c09.ico 200 in 224ms
+ GET / 200 in 152ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 141ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 149ms
+ ✓ Compiled in 115ms
+ GET / 200 in 461ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 382ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 103ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 96ms

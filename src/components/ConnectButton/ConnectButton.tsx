@@ -20,7 +20,7 @@ const ConnectWalletButton: React.FC = () => {
         setError(null); // エラーをリセット
 
         // Ethers.jsのプロバイダーを作成
-        const provider = new ethers.providers.Web3Provider(window.ethereum);
+        const provider = new ethers.BrowserProvider(window.ethereum);
         const signer = provider.getSigner();
 
         // 必要に応じてスマートコントラクトを操作するコードを書く
