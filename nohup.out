@@ -1,0 +1,45 @@
+
+> next-metamask-template@0.1.0 dev
+> next dev --turbopack
+
+  ▲ Next.js 15.0.1 (Turbopack)
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1083ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3.9s
+ GET / 200 in 4257ms
+ ✓ Compiled /favicon.ico in 301ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 367ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 40ms
+ GET / 200 in 131ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 69ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 89ms
+ GET / 200 in 115ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 65ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 67ms
+
+> next-metamask-template@0.1.0 dev
+> next dev --turbopack
+
+  ▲ Next.js 15.0.1 (Turbopack)
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1070ms
+ ○ Compiling / ...
+ ✓ Compiled / in 6s
+ GET / 200 in 4659ms
+ ✓ Compiled /favicon.ico in 323ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 411ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 51ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 54ms
+ ✓ Compiled in 185ms
+ ✓ Compiled / in 71ms
+ GET / 200 in 366ms
+ ✓ Compiled / in 19ms
+ GET / 200 in 222ms
+ GET / 200 in 293ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 248ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 224ms
